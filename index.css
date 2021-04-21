@@ -236,7 +236,7 @@ html, body{
     font-size:17px;
     padding-bottom:5px;
     font-weight:100;
-    color:#999;
+    color:rgb(0, 0, 0);
   }
   .othqualification{
     padding-left:25px;
@@ -251,7 +251,7 @@ html, body{
     font-size:15px;
     padding-bottom:5px;
     font-weight:100;
-    color:#999;
+    color:rgb(0, 0, 0);
   }
   /*PORTFOLIO*/
   #conteneur-portfolio{
@@ -414,7 +414,7 @@ html, body{
 #perse{
   color:rgba(132, 0, 255, 0.918);}
 #resp{
-  color:rgba(149, 189, 226, 0.918);}
+  color:rgba(34, 48, 61, 0.918);}
 #face{
   color:rgb(14, 116, 212);}
 #insta{
@@ -422,9 +422,9 @@ html, body{
 #linkedin{
   color:rgb(14, 88, 158);}
 #mail{
-  color:rgba(56, 74, 90, 0.918);}
+  color:rgba(78, 123, 161, 0.918);}
 #telefono{
   color:rgba(255, 0, 0, 0.918);}
 #posizione{
-  color:rgba(199, 15, 15, 0.918);}
+  color:rgba(44, 41, 41, 0.918);}
     
