@@ -3,7 +3,8 @@ html, body{
     padding:0px;
     width:100%;
     font-size:15px;
-    font-family:century gothic;
+    font-family:Arial, Helvetica, Arial, Helvetica, sans-serif;
+    background-color:#EEE;
   }
   div, p, h1, h2, h3, h4, h5, ul, li, a, span{
     margin:0px;
@@ -210,6 +211,7 @@ html, body{
   /*DIPLOMA*/
   #conteneur-qualification{
     padding:100px 0px;
+    background-color:#EEE;
   }
   .qualification{
     max-width:960px;
