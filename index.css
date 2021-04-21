@@ -21,13 +21,12 @@ html, body{
   }
   .menu{
     width:100%;
-    background-color:white;
     box-shadow: 2px 2px 12px 2px rgba(0, 0, 0, 0.2);
     margin:auto;
     text-align:center;
     position:fixed;
     z-index:999;
-    border-radius: 30px 30px 30px 30px;
+    
   }
   
   .menu ul{
@@ -45,8 +44,8 @@ html, body{
   }
   .menu a{
     text-decoration:none;
-    color:black;
-    background-color:#DDD;
+    color:rgb(245, 239, 239);
+    background-color:rgb(43, 42, 42);
     transition:0.4s;
     padding:5px 25px;
     border-radius: 30px 30px 30px 30px;
@@ -178,6 +177,7 @@ html, body{
     background-color:#AAA;
     position:relative;
     margin-bottom:15px;
+    border-radius: 30px 30px 30px 30px;
   }
   .progressbar span{
     height:5px;
@@ -189,18 +189,23 @@ html, body{
   }
   .html{
     width:80%;
+    border-radius: 30px 30px 30px 30px;
   }
   .css{
     width:90%;
+    border-radius: 30px 30px 30px 30px;
   }
   .javascript{
     width:45%;
+    border-radius: 30px 30px 30px 30px;
   }
   .php{
     width:70%;
+    border-radius: 30px 30px 30px 30px;
   }
   .sql{
     width:60%;
+    border-radius: 30px 30px 30px 30px;
   }
   /*DIPLOMA*/
   #conteneur-qualification{
@@ -334,7 +339,8 @@ html, body{
     text-align:center;
   }
   .contact h2{
-    padding-bottom:50px;
+    padding-bottom:10px;
+    padding-top: 20px;
     font-size:25px;
     font-weight:100;
     text-transform:uppercase;
@@ -375,7 +381,7 @@ html, body{
       width:100%;
       display:inline-block;
       height:25px;
-      padding:0 30px;
+      padding: 30px;
       text-align:center;
       font-weight:100;
       line-height:20px;
@@ -416,25 +422,22 @@ html, body{
   
 
   .tab{
-    align: "center";
+   
     text-align: center;
     background-color:rgb(240, 237, 233);
     color: black;
     margin: 30px 30px 30px 30px;
     border-radius: 30px 30px 30px 30px;
+    padding-bottom: 20px;
   }
 
   .tab1{
-    align: "center";
     text-align: center;
     color: black;
     margin: 30px 30px 30px 30px;
     padding:10px 10px;
   }
-  .footer1 {
-    align: "center";
-    text-align: center;
-}
+  
 .link1 {
     font-size:20px;
     font-weight:100;
@@ -459,6 +462,12 @@ html, body{
   color:rgba(14, 116, 212, 0.918);}
 #insta{
   color:rgba(250, 8, 101, 0.918);}
-  #linkedin{
-    color:rgba(15, 110, 199, 0.918);}
+#linkedin{
+  color:rgba(15, 110, 199, 0.918);}
+#mail{
+  color:rgba(56, 74, 90, 0.918);}
+#telefono{
+  color:rgba(255, 0, 0, 0.918);}
+#posizione{
+  color:rgba(199, 15, 15, 0.918);}
     
