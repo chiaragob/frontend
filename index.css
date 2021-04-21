@@ -328,7 +328,7 @@ html, body{
   }
   /*CONTACT*/
   #conteneur-contact{
-    padding:100px 0px;
+    padding:50px 0px;
     background:url(https://image.freepik.com/premium-photo/dark-grey-black-slate-texture-with-high-resolution-background-natural-black-stone-wall_38607-306.jpg) fixed 100% no-repeat;
     background-size:cover;
   }
@@ -416,11 +416,11 @@ html, body{
 #resp{
   color:rgba(149, 189, 226, 0.918);}
 #face{
-  color:rgba(14, 116, 212, 0.918);}
+  color:rgb(14, 116, 212);}
 #insta{
-  color:rgba(250, 8, 101, 0.918);}
+  color:rgb(250, 8, 101);}
 #linkedin{
-  color:rgba(15, 110, 199, 0.918);}
+  color:rgb(14, 88, 158);}
 #mail{
   color:rgba(56, 74, 90, 0.918);}
 #telefono{
