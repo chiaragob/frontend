@@ -163,6 +163,9 @@ html, body{
     margin:auto;
    
   }
+  .bardiv1{
+    width:100%;
+  }
   .bardiv h3{
     font-size:20px;
     padding-bottom:5px;
@@ -439,4 +442,23 @@ html, body{
     text-align: center;
     padding: 20px 20px 20px 20px;
 }
+#adattabilità{
+  color: rgba(93, 240, 8, 0.836);}
 
+#creatività{
+  color:rgba(255, 255, 0, 0.918);}
+#comunicazione{
+  color:rgba(241, 28, 13, 0.918);}
+#team{
+  color:rgba(182, 71, 139, 0.918);}
+#perse{
+  color:rgba(132, 0, 255, 0.918);}
+#resp{
+  color:rgba(149, 189, 226, 0.918);}
+#face{
+  color:rgba(14, 116, 212, 0.918);}
+#insta{
+  color:rgba(250, 8, 101, 0.918);}
+  #linkedin{
+    color:rgba(15, 110, 199, 0.918);}
+    
